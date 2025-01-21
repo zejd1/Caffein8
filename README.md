@@ -1,8 +1,16 @@
-# React + Vite
+Caffein8 Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web app to track your daily caffeine intake, built with React and Firebase for user authentication. This app allows users to log their caffeine consumption, view their history, and track their progress over time.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-User Authentication: Users can sign up, log in, and log out using Firebase Authentication. 
+-Track Caffeine Intake: Log caffeine consumption (e.g., coffee, tea, energy drinks) along with the amount of caffeine consumed. 
+-History View: See a history of your daily caffeine consumption and monitor your intake over time.
+-Responsive Design: The app is fully responsive and works on both desktop and mobile devices.
+
+Technologies Used:
+
+-React: Frontend UI built with React.js. 
+-Firebase: Firebase Authentication for user login and sign-up functionality. 
+-Firebase Firestore: Firestore is used to store user caffeine intake data.
