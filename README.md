@@ -1,6 +1,6 @@
 Caffein8 Web App
 
-Link to Website: https://caffein8-tracker.netlify.app/
+Website Link: https://caffein8-tracker.netlify.app/
 
 A web app to track your daily caffeine intake, built with React and Firebase for user authentication. This app allows users to log their caffeine consumption, view their history, and track their progress over time.
 
